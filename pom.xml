@@ -29,6 +29,7 @@
 	<properties>
 		<java.version>17</java.version>
 			<sonar.token>squ_9631891089e2903aa19ad47b8660be800c9b0ca2</sonar.token>
+			<sonar.organization>tahashafiqdigest</sonar.organization>
 	</properties>
 	<dependencies>
 		<dependency>
